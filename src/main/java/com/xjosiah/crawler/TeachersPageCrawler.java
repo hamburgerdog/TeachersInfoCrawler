@@ -13,30 +13,33 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.ArrayList;
 
-public class PageCrawler extends BreadthCrawler {
 
-    public PageCrawler(String crawlPath, boolean autoParse, ArrayList<String> pagesUrl) {
+public class TeachersPageCrawler extends BreadthCrawler {
+    private String jsjGzhuUrl = "http://jsj.gzhu.edu.cn";
+
+    public TeachersPageCrawler(String crawlPath, boolean autoParse) {
         super(crawlPath, autoParse);
 
-        for (String pageUrl : pagesUrl) {
-            addSeed(pageUrl);
-        }
+
+        addSeed(jsjGzhuUrl+"/szdw1/jsjkxywlgcxysz.htm");
+        addSeed(jsjGzhuUrl+"/szdw1/wlkjxjjsyjysz.htm");
+        addSeed(jsjGzhuUrl+"/szdw1/jskjyjysz.htm");
+        addRegex("http://jsj\\.gzhu\\.edu\\.cn/info/.*");
 
         setRequester(new MyRequest());
         setThreads(50);
         getConf().setTopN(100);
     }
-
     @Override
     public void visit(Page page, CrawlDatums crawlDatums) {
         ArrayList<String> msgList = new ArrayList<>();
         String name = page.select("div .contain h2").text();
         msgList.add(name);
-//        System.out.println(name);
+        System.out.println(name);
 
         String picURL = "http://jsj.gzhu.edu.cn" + page.select("div #vsb_content p img").attr("src");
         msgList.add(picURL);
-//        System.out.println(picURL);
+        System.out.println(picURL);
 
         Elements teacherMsg = page.select("div #vsb_content p");
         for (Element e : teacherMsg) {
@@ -44,7 +47,6 @@ public class PageCrawler extends BreadthCrawler {
         }
         tackleMsg(msgList);
     }
-
     private void tackleMsg(ArrayList<String> msgList) {
         Teacher teacher = new Teacher();
         String name = msgList.get(0);
@@ -72,6 +74,7 @@ public class PageCrawler extends BreadthCrawler {
                 setTeacherInfo(teacher, msg);
             }
         }
+        System.out.println(teacher);
         try {
             FileWriter writer = new FileWriter(new File("teacher_msg/" + name + ".txt"));
             writer.write(teacher.toString());
@@ -156,10 +159,8 @@ public class PageCrawler extends BreadthCrawler {
         }
     }
 
-//    public static void main(String[] args) throws Exception {
-//        ArrayList<String> pagesUrl = new ArrayList<>();
-//        pagesUrl.add("http://jsj.gzhu.edu.cn/info/1227/2254.htm");
-//        PageCrawler craw = new PageCrawler("craw", true, pagesUrl);
-//        craw.start(1);
-//    }
+    public static void main(String[] args) throws Exception {
+        TeachersPageCrawler teachersPageURLCrawler = new TeachersPageCrawler("craw", true);
+        teachersPageURLCrawler.start(3);
+    }
 }
