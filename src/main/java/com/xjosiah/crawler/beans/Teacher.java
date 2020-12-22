@@ -98,9 +98,10 @@ public class Teacher {
 
     @Override
     public String toString() {
+        String teacherPic = pic == null ? "null" : (name + ".jpg");
         return "Teacher{" +
                 "name='" + name + '\'' +
-                ", pic=" + pic == null ? "null" : name + ".jpg" +
+                ", pic='" + teacherPic + '\'' +
                 ", title='" + title + '\'' +
                 ", researchInstitute='" + researchInstitute + '\'' +
                 ", specialism='" + specialism + '\'' +
