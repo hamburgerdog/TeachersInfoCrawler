@@ -1,0 +1,1 @@
+王国军.jpg, title='教授（二级）', researchInstitute='软件工程系、计算机网络研究所', specialism='人工智能、区块链、网络安全、隐私保护、推荐系统', course='面向对象程序设计、数据结构与算法', email='csgjwang@gzhu.edu.cn', office='null', phoneNum='020-39366920', page=http://trust.gzhu.edu.cn/faculty/~csgjwang/}

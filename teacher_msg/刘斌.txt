@@ -1,0 +1,1 @@
+刘斌.jpg, title='副教授', researchInstitute='计算机科学系', specialism='数据分析、算法', course='数据结构、离散数学、数据库原理', email='415048537@QQ.com', office='null', phoneNum='null', page=null}

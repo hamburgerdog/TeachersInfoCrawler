@@ -1,0 +1,1 @@
+颜国风.jpg, title='副教授', researchInstitute='计算机科学系', specialism='计算机网络、生物信息学', course='数据库原理、程序设计基础、面向对象程序设计', email='gfyan@gzhu.edu.cn', office='null', phoneNum='null', page=null}

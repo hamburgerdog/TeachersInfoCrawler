@@ -1,0 +1,1 @@
+陈淑红.jpg, title='副教授', researchInstitute='软件工程系', specialism='移动社会网信任评价', course='计算机网络、软件工程、数据结构', email='shuhongchen@gzhu.edu.cn', office='null', phoneNum='null', page=http://ieee-trustcom.org/faculty/~shchen/}

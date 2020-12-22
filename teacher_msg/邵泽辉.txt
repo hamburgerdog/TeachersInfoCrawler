@@ -1,0 +1,1 @@
+邵泽辉.jpg, title='教授', researchInstitute='计算科技研究院', specialism='图论与组合数学', course='图论与组合数学、离散数学', email='zshao@gzhu.edu.c', office='null', phoneNum='null', page=null}

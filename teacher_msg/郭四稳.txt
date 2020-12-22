@@ -1,0 +1,1 @@
+郭四稳.jpg, title='教授', researchInstitute='计算机科学系、计算科技研究院', specialism='计算机自动推理、数字图像处理、教育软件', course='程序设计基础、面向对象程序设计', email='2667690005@qq.com', office='null', phoneNum='null', page=null}

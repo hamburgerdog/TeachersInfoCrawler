@@ -1,0 +1,1 @@
+陈彩云.jpg, title='讲师', researchInstitute='网络工程系', specialism='无线通信、绿色通信', course='数字通信原理、计算机组成原理、工程数学', email='chency@gzhu.edu.cn', office='null', phoneNum='null', page=null}

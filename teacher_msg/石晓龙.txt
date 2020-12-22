@@ -1,0 +1,1 @@
+石晓龙.jpg, title='教授', researchInstitute='计算科技研究院', specialism='生物计算机、生物信息学', course='生物信息学、生物计算、计算方法、模式识别', email='xlshi@gzhu.edu.cn', office='null', phoneNum='null', page=null}

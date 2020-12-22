@@ -1,0 +1,1 @@
+宁洪.jpg, title='教授 系、研究所', researchInstitute='null', specialism='软件工程、网络空间安全', course='数据库原理、数据库管理系统、计算机程序设计', email='hning@gzhu.edu.cn', office='null', phoneNum='null', page=null}

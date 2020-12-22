@@ -1,0 +1,1 @@
+汤茂斌.jpg, title='副教授', researchInstitute='网络工程系', specialism='人工智能、知识工程、系统分析与设计', course='离散数学、编译原理、程序设计基础等', email='tmb178@gzhu.edu.cn', office='null', phoneNum='020-39366325', page=null}

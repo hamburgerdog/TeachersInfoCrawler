@@ -1,0 +1,1 @@
+何锫.jpg, title='教授', researchInstitute='计算机科学与网络工程学院', specialism='人工智能、计算机科学与技术', course='数据结构、算法设计与分析、形式语言与自动机', email='lecture_he@126.com', office='null', phoneNum='null', page=null}

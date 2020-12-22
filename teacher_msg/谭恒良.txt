@@ -1,0 +1,1 @@
+谭恒良.jpg, title='讲师', researchInstitute='计算机科学与技术系', specialism=' 模式识别、流形学习、图像识别、嵌入式开发', course='面向对象程序设计、计算机组成原理', email='thlautumn@163.com', office='null', phoneNum='020-39366375', page=null}

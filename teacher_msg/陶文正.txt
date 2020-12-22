@@ -1,0 +1,1 @@
+陶文正.jpg, title='副教授', researchInstitute='网络工程系', specialism='操作系统、软件工程等', course='操作系统、软件工程、Linux系统分析、项目管理、并行与分布式系统等', email='tao_wz@gzhu.edu.cn', office='null', phoneNum='null', page=null}

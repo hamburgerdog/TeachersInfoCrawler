@@ -1,0 +1,1 @@
+陈联.jpg, title='研究员', researchInstitute='计算科技研究院', specialism='计算机软件、教育信息化', course='WEB应用技术，数据结构', email='chenlian@gzhu.edu.cn', office='null', phoneNum='null', page=null}

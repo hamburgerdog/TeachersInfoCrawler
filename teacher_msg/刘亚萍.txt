@@ -1,0 +1,1 @@
+刘亚萍.jpg, title='教授', researchInstitute='null', specialism='计算机网络体系结构、高性能网络、协议软件和网络安全', course='null', email='liuyaping@gmail.com', office='null', phoneNum='null', page=null}

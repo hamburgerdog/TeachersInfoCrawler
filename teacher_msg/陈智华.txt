@@ -1,0 +1,1 @@
+陈智华.jpg, title='教授', researchInstitute='计算科技研究院', specialism='生物计算、智能控制、人工智能', course='信号与系统、现代控制理论', email='czhgd@gzhu.edu.cn', office='null', phoneNum='null', page=null}

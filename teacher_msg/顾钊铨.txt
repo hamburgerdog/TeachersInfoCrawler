@@ -1,0 +1,1 @@
+顾钊铨.jpg, title='教授', researchInstitute='null', specialism='大数据及人工智能、网络科学、分布式计算', course='null', email='guzhaoquan@gmail.com', office='null', phoneNum='null', page=null}

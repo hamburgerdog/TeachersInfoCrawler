@@ -1,0 +1,1 @@
+邢萧飞.jpg, title='副教授', researchInstitute='网络工程系/计算机网络研究所', specialism='移动计算、物联网、信息物理系统（CPS）', course='计算机组成与体系结构、计算机网络、无线网络与移动计算', email='xingxf@gzhu.edu.cn', office='广州大学行政西楼前座410室', phoneNum='null', page=http://trust.gzhu.edu.cn/faculty/~xingxf/index.htm}

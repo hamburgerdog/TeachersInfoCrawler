@@ -1,0 +1,1 @@
+李传中.jpg, title='副研究员', researchInstitute='计算机科学系', specialism='几何定理机器证明', course='程序设计基础、面向对象程序设计和算法设计与分析等', email='czli@gzhu.edu.cn', office='null', phoneNum='null', page=null}

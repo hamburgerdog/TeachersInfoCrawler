@@ -1,0 +1,1 @@
+张少宏.jpg, title='副教授', researchInstitute='软件工程系', specialism='数据挖掘', course='数据库原理、人工智能、数据挖掘', email='zimzsh@qq.com', office='null', phoneNum='null', page=http://jsj.gzhu.edu.cn/info/1207/1679.htm}

@@ -1,0 +1,1 @@
+李进.jpg, title='教授', researchInstitute='网络工程系', specialism='人工智能安全、密码学', course='信息安全、离散数学', email='jinli71@gmail.com', office='null', phoneNum='null', page=null}

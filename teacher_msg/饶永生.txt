@@ -1,0 +1,1 @@
+饶永生.jpg, title='助理研究员', researchInstitute='计算机科学系', specialism='智能软件、自动推理、教育信息技术、教育数学', course='动态几何、程序设计、互联网与学科教育', email='rysheng@gzhu.edu.cn', office='null', phoneNum='39366413', page=null}

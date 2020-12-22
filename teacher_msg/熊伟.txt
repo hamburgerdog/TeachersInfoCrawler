@@ -1,0 +1,1 @@
+熊伟.jpg, title='副教授', researchInstitute='网络工程系', specialism='机器学习', course='程序设计基础、数据库、计算机网络等', email='freeprogman@qq.com', office='null', phoneNum='02039366375', page=null}

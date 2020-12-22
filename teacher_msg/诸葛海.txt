@@ -1,0 +1,1 @@
+诸葛海.jpg, title='教授', researchInstitute='网络工程系', specialism='数据、语义与知识模拟、人工智能', course='高级数据库技术', email='zhuge@gzhu.edu.cn', office='null', phoneNum='null', page=null}

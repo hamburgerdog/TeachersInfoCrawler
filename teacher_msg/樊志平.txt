@@ -1,0 +1,1 @@
+樊志平.jpg, title='副教授', researchInstitute='软件工程系', specialism='物联网、大数据', course='JAVA语言、数据库原理、微机接口技术', email='fz_ping@163.com', office='null', phoneNum='020-39366325', page=null}

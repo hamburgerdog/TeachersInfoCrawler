@@ -1,0 +1,1 @@
+陈文彬.jpg, title='教授', researchInstitute='网络工程系、计算机理论研究所、广东省大数据安全与隐私保护工程技术研究中心、数学教育软件工程技术研究中心', specialism='理论计算机科学包括格密码算法及应用、图算法及应用、在线算法与近似算法、计算复杂性等', course='计算机导论、算法设计与分析、工程数学、Web应用技术、离散数学等', email='cwb802@aliyun.com; cwb2011@gzhu.edu.cn', office='null', phoneNum='null', page=null}

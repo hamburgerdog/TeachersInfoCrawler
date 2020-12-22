@@ -1,0 +1,1 @@
+李亚.jpg, title=' 副教授', researchInstitute='软件工程系', specialism='计算机视觉、机器学习、图像识别等', course='计算机导论、数据库原理、软件测试技术、软件质量保证与测试、测试自动化', email='liya@gzhu.edu.cn', office='null', phoneNum='null', page=null}

@@ -1,0 +1,1 @@
+陈康民.jpg, title='讲师', researchInstitute='软件工程系', specialism='计算机应用技术、计算机系统结构', course='程序设计基础、操作系统、编译原理等', email='gzuchen@163.com', office='null', phoneNum='null', page=null}

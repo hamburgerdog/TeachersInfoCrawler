@@ -1,0 +1,1 @@
+张艳玲.jpg, title='副教授', researchInstitute='计算机科学系', specialism='图像处理与智能识别', course='数据结构、操作系统', email='zyl@gzhu.edu.cn', office='null', phoneNum='null', page=null}

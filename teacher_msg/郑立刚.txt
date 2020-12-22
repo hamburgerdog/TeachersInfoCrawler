@@ -1,0 +1,1 @@
+郑立刚.jpg, title='讲师', researchInstitute='网络工程系', specialism='深度学习、多媒体（图像、视频、文本等）内容分析', course='人工智能、工程数学、概率统计、优化导论', email='zlg@gzhu.edu.cn', office='null', phoneNum='null', page=null}

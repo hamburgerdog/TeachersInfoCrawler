@@ -1,0 +1,1 @@
+谭建中.jpg, title='讲师', researchInstitute='软件工程系', specialism='计算机辅助设计', course='autocad、3ds max、计算机基础、网页设计、PS', email='1009515940@qq.com', office='null', phoneNum='null', page=null}

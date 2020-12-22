@@ -1,0 +1,1 @@
+揭廷红.jpg, title='讲师', researchInstitute='计算机科学系', specialism='计算机基础课程教学', course='计算机信息基础、C程序设计、VB程序设计', email='jth1901@163.com', office='null', phoneNum='null', page=null}

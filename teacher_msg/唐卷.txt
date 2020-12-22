@@ -1,0 +1,1 @@
+唐卷.jpg, title='讲师', researchInstitute=' 计算科学系、智能软件研究所', specialism='计算机数学、科学计算、人工智能等', course='离散数学等', email='tangjn16@gzhu.edu.cn', office='null', phoneNum='020-39366413', page=null}

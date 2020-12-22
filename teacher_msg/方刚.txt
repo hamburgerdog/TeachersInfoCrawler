@@ -1,0 +1,1 @@
+方刚.jpg, title='教授', researchInstitute='计算科技研究院', specialism='生物计算、生物信息学', course='生物信息学、生物计算', email='yuxiangqd@163.com', office='null', phoneNum='null', page=null}

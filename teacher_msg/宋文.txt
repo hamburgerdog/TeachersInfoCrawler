@@ -1,0 +1,1 @@
+宋文.jpg, title='副教授', researchInstitute='计算机科学系', specialism='计算机应用', course='《计算机与信息技术基础》、《数椐库技术及应》等', email='sw999888@126.com', office='null', phoneNum='null', page=null}

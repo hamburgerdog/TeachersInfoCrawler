@@ -1,0 +1,1 @@
+杜娇.jpg, title='讲师', researchInstitute='软件工程系', specialism='图像融合、图像特征提取、图像显著性检测、智能规划、生物信息处理', course='《数据结构》', email='djiao@gzhu.edu.cn', office='null', phoneNum='020-39366375', page=null}

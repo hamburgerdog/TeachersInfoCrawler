@@ -1,0 +1,1 @@
+庄育飞.jpg, title='讲师', researchInstitute='计算机科学系', specialism='软件工程、面向对象分析与设计等', course='面向对象分析与设计、软件工程、项目管理等', email='2239036545@qq.com', office='null', phoneNum='null', page=null}

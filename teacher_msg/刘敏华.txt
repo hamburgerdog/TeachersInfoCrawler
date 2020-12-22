@@ -1,0 +1,1 @@
+刘敏华.jpg, title='副教授', researchInstitute='软件工程系', specialism='计算机科学与技术、数据库信息系统、教学研究', course='计算机与信息技术基础、NCRE ACCESS数据库技术及应用、智能时代下的创新创业实践等', email='13826148660@163.com', office='null', phoneNum='null', page=null}

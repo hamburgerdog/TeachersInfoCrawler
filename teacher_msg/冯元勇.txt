@@ -1,0 +1,1 @@
+冯元勇.jpg, title='讲师', researchInstitute='软件工程系', specialism='自然语言处理、人工智能、知识图谱', course='面向对象分析与设计、编译原理、软件测试、软件工程', email='ComerFeng@qq.com', office='null', phoneNum='null', page=null}

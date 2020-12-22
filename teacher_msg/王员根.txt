@@ -1,0 +1,1 @@
+王员根.jpg, title='教授', researchInstitute='网络工程系', specialism='人工智能、多媒体安全及算法优化', course='算法导论、数值分析', email='wangyg@gzhu.edu.cn.', office='null', phoneNum='020-39366375', page=http://bigdatasp.gzhu.edu.cn/info/1190/1067.htm.}

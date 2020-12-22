@@ -1,0 +1,1 @@
+方美娥.jpg, title='教授', researchInstitute='计算机科学与技术系', specialism='计算机辅助几何设计与计算机图形学', course='C语言程序设计、计算机与信息技术基础、数值分析、计算机辅助几何设计', email='fme@gzhu.edu.cn', office='null', phoneNum='null', page=null}

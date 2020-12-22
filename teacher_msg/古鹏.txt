@@ -1,0 +1,1 @@
+古鹏.jpg, title='副教授', researchInstitute='软件工程系', specialism='视频识别、物联技术、光伏与LDE', course='计算机组成与体系结构、汇编与接口技术、多媒体处理技术、软件项目管理、嵌入式计算机技术等', email='null', office='null', phoneNum='null', page=null}

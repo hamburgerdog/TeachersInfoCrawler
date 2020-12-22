@@ -1,0 +1,1 @@
+谭伟强.jpg, title=' 副教授', researchInstitute='计算机科学系', specialism='智能移动通信、大数据传输、人工智能、物联网', course='计算机导论、数字通信原理、概率论与数理统计', email='wqtan@gzhu.edu.cn', office='null', phoneNum='null', page=null}

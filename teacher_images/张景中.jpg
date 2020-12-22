@@ -1,0 +1,502 @@
+﻿<!DOCTYPE html><HTML><HEAD><TITLE>广州大学计算机科学与网络工程学院</TITLE>
+
+
+
+
+<META charset="UTF-8"><LINK rel="stylesheet" href="style/public.css"><LINK rel="stylesheet" href="style/master.css"><script type="text/javascript" src="js/bdtxk.js"></script><script type="text/javascript" src="js/bdtxk.SuperSlide.js"></script><script type="text/javascript" src="js/index.js"></script><script type="text/javascript">
+    function setInit() {
+        document.getElementById("firstTitle").className = "titleTab"
+        document.getElementById("secondTitle").className = "titleTab"
+        document.getElementById("thirdTitle").className = "titleTab"
+        document.getElementById("first").style.display = "none"
+        document.getElementById("second").style.display = "none"
+        document.getElementById("third").style.display = "none"
+    }
+
+    function selectTitle(e) {
+        setInit()
+        var id = e.target.id.split("Title")[0]
+        e.target.className = "titleTab active"
+        document.getElementById(id).style.display = "block"
+    }
+</script>
+<STYLE>
+
+
+</STYLE>
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7846575356574200000004405d -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<META Name="keywords" Content="广州大学计算机科学与网络工程学院" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1538520031)</script>
+</HEAD>
+<BODY><!--top-->
+<DIV class="stick"></DIV>
+<DIV class="header"><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="135720" contentviewid="" stylesysid=""-->
+<a href="" title="计算机学院（新）" style="float:left"><img src="images/logo.png" style="margin-top:20px;" /></a><!--#endeditable-->
+<DIV class="linSea"><!--#begineditable contype="" name="头部链接" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="头部链接" viewid="135721" contentviewid="" stylesysid=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="link">
+   <a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1538520031, 18278)">中文版</a><font>|</font>
+   <a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1538520031, 18279)">ENGLISH</a>
+</div>
+
+<!--#endeditable--><!--#begineditable contype="" name="头部检索" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="头部检索" viewid="135722" contentviewid="" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check_2(){
+        
+        var keyword = document.getElementById('showkeycode135722_2').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword135722").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword135722").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword135722").value = base64.encode(document.getElementById("lucenenewssearchkeyword135722").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode135722_2"));
+        return true;
+    } 
+ </script>
+<script type="text/javascript">
+
+                function test1()
+                {
+			
+                    var tempStr=document.getElementById('showkeycode135722_2').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode135722_2').value="";
+                    }
+                }
+                function test2()
+                {
+                    var tempStr=document.getElementById('showkeycode135722_2').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode135722_2').value="请输入关键字搜索";
+                    }
+                }
+ </script>
+ <div class="search">             
+<form action="ssjg.jsp?wbtreeid=1001" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check_2()">
+ <input type="hidden" id="lucenenewssearchkeyword135722" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype135722" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope135722" name="searchScope" value="0">
+<span>
+<input type="image" src="images/search.png" align="absmiddle" value="" style="cursor: hand"></span>
+<input name="showkeycode" id="showkeycode135722_2" type="text" value="请输入关键字搜索" onfocus="test1()" onblur="test2()" class="searchText">
+ 
+
+</form> </div>
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></DIV></DIV><!--nav-->
+<DIV class="nav">
+<DIV class="innav"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="网站导航" viewid="135723" contentviewid="" stylesysid=""--><UL class="cleafix">
+
+<LI><A class="link cur" href="index.htm">首页</A>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="xkjs1/xkjs.htm">学科建设</A>
+<DIV id="nav">
+<A href="xkjs1/xkjs.htm">学科介绍</A> 
+<A href="xkjs1/xkfx.htm">学科方向</A> 
+<A href="xkjs1/xkjszt.htm">学科建设主体</A> 
+</DIV>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="xygk1/xyjj.htm">学院概况</A>
+<DIV id="nav">
+<A href="xygk1/xyjj.htm">学院简介</A> 
+<A href="xygk1/xyld.htm">学院领导</A> 
+<A href="xygk1/zzjg.htm">组织架构</A> 
+</DIV>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="xwzx1/xyxw.htm">新闻中心</A>
+<DIV id="nav">
+<A href="xwzx1/xyxw.htm">学院新闻</A> 
+<A href="xwzx1/xytz.htm">学院通知</A> 
+<A href="xwzx1/xsxw.htm">学术新闻</A> 
+</DIV>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="xsky1/kypt.htm">学术科研</A>
+<DIV id="nav">
+<A href="xsky1/kypt.htm">科研平台</A> 
+<A href="xsky1/kytd.htm">科研团队</A> 
+<A href="xsky1/xshdtz.htm">学术活动通知</A> 
+</DIV>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="szdw1/yszl.htm">师资队伍</A>
+<DIV id="nav">
+<A href="szdw1/yszl.htm">院士专栏</A> 
+<A href="szdw1/jsjkxywlgcxysz.htm">计算机科学与网络工程学院师资</A> 
+<A href="szdw1/wlkjxjjsyjysz.htm">网络空间先进技术研究院师资</A> 
+<A href="szdw1/jskjyjysz.htm">计算科技研究院师资</A> 
+</DIV>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="bkjy1/zyjs.htm">本科教育</A>
+<DIV id="nav">
+<A href="bkjy1/zyjs.htm">专业介绍</A> 
+<A href="bkjy1/pyfa.htm">培养方案</A> 
+<A href="bkjy1/tssyb.htm">特色实验班</A> 
+</DIV>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="yjsjy1/dsjj1/sssds.htm">研究生教育</A>
+<DIV id="nav">
+<A href="yjsjy1/dsjj1/sssds.htm">导师简介</A> 
+<A href="yjsjy1/zyjs.htm">专业介绍</A> 
+<A href="yjsjy1/pyfa.htm">培养方案</A> 
+<A href="yjsjy1/zszyml.htm">招生专业目录</A> 
+<A href="yjsjy1/zsksxx.htm">招生考试信息</A> 
+</DIV>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="xsgz1/xgdt.htm">学生工作</A>
+<DIV id="nav">
+<A href="xsgz1/xgdt.htm">学工动态</A> 
+<A href="xsgz1/bgxz.htm">表格下载</A> 
+<A href="xsgz1/lxwm.htm">联系我们</A> 
+</DIV>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="jy/gzdt.htm">就业服务</A>
+<DIV id="nav">
+<A href="jy/gzdt.htm">工作动态</A> 
+<A href="jy/xglj.htm">相关链接</A> 
+<A href="jy/xgxz.htm">相关下载</A> 
+<A href="jy/zpxx.htm">招聘信息</A> 
+<A href="jy/zcfg.htm">政策法规</A> 
+</DIV>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="dqgz1/gzzd.htm">党群工作</A>
+<DIV id="nav">
+<A href="dqgz1/gzzd.htm">规章制度</A> 
+<A href="dqgz1/zzjg.htm">组织机构</A> 
+<A href="dqgz1/gzdt.htm">工作动态</A> 
+<A href="dqgz1/ghxx.htm">工会信息</A> 
+</DIV>
+</LI>
+
+<LI class="mainmenu"><A class="link" href="sjjx1/sys.htm">实践教学</A>
+<DIV id="nav">
+<A href="sjjx1/sys.htm">实验室</A> 
+<A href="sjjx1/sjjd.htm">实践基地</A> 
+<A href="sjjx1/xkjs.htm">学科竞赛</A> 
+</DIV>
+</LI>
+</UL><!--#endeditable--></DIV></DIV><!--banner-->
+<DIV class="vsb-box">
+<DIV class="vsb-container a" containerid="1" columns="4">
+<DIV class="vsb-space ban3" columns="4"><!--#begineditable contype="" name="banner" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="banner3" viewid="135777" contentviewid="" stylesysid=""-->        <!--banner1-->
+
+        <div class="slideBox slideBox3">
+            <div class="hd">
+                <ul>
+                    <li></li>
+            <li></li>
+        
+        </ul>
+            </div>
+            <div class="bd">
+                <ul>
+            <li style="text-align:center;"><a href="temp/20190528183826.jpg" onclick="_addDynClicks(&#34;wbimage&#34;, 1538520031, 52702)" target="_blank"><img src="images/bane.png" style="width: 100%;min-height:270px;" /></a></li>
+            <li style="text-align:center;"><a href="" onclick="_addDynClicks(&#34;wbimage&#34;, 1538520031, 52705)" target="_blank"><img src="images/nes.png" style="width: 100%;min-height:270px;" /></a></li>
+                </ul>
+            </div>
+             <a class="prev" href="javascript:void(0)"></a>
+                <a class="next" href="javascript:void(0)"></a>
+
+
+        </div>
+       
+
+<!--#endeditable--></DIV></DIV></DIV><!-- main部分 -->
+<DIV class="vsb-box">
+<DIV class="vsb-container main" containerid="2" columns="4">
+<DIV class="vsb-space oneLeft" columns="3">
+<H1 class="oneTitle cleafix"><SPAN>学院新闻</SPAN><A href="xwzx1/xyxw.htm" target="">更多 <FONT size="+0">&gt;&gt;</FONT></A></H1>
+<DIV class="oneLis cleafix"><!--#begineditable contype="" name="左侧圆点3张图片切换" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="左侧圆点3张图片切换" viewid="135778" contentviewid="" stylesysid=""--><div class="oneLisImg">
+                    <div class="hd">
+                        <ul>
+<li></li>
+<li></li>
+<li></li>
+
+</ul>
+</div>
+<div class="bd">
+<ul>
+ <li>
+<a href="info/1027/1065.htm" target="_blank" title="学院党委书记杨勇讲授2019年第一堂思政课">
+  <img src="/__local/0/3C/00/F481CFD98222AE5022581CAB496_355C4568_38D401.jpg" width="379px" height="282px" />
+    <p>学院党委书记杨勇讲授2019年第一堂思政...</p>
+</a>
+</li>
+
+ <li>
+<a href="info/1027/1096.htm" target="_blank" title="我院在第四届中国“互联网+”大学生创新创业大赛收获佳绩">
+  <img src="/__local/A/D9/A4/66BC783EA2D80C055EADFD70319_3FA5B6E7_59EEB.jpg" width="379px" height="282px" />
+    <p>我院在第四届中国“互联网+”大学生创新...</p>
+</a>
+</li>
+
+ <li>
+<a href="info/1027/1064.htm" target="_blank" title="本科学生党支部召开党员大会">
+  <img src="/__local/8/30/FB/E79137CF941DB88C4BA2ABA8047_9474C7A0_35D4CF.jpg" width="379px" height="282px" />
+    <p>本科学生党支部召开党员大会</p>
+</a>
+</li>
+
+ 
+</ul>
+      </div>
+                </div><script>_showDynClickBatch(['dynclicks_u5_1065','dynclicks_u5_1096','dynclicks_u5_1064'],[1065,1096,1064],"wbnews", 1538520031)</script>
+<!--#endeditable-->
+<UL class="new_list"><!--#begineditable contype="" name="9条标题列表-短日期" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="9条标题列表-短日期" viewid="135725" contentviewid="" stylesysid=""--><LI><A href="info/1027/2525.htm" target="_blank" title="加强党支部规范化建设  提升支部组织力"><SPAN>2020/12/17</SPAN>加强党支部规范化建设  提升支部组织力</A></LI>
+
+<LI><A href="info/1027/2524.htm" target="_blank" title="首届区块链·金融·安全交叉论坛成功举办"><SPAN>2020/12/17</SPAN>首届区块链·金融·安全交叉论坛成功举办</A></LI>
+
+<LI><A href="info/1027/2516.htm" target="_blank" title="广州大学团队研究成果被网络安全国际顶级学术会议USENIX Security录用"><SPAN>2020/12/09</SPAN>广州大学团队研究成果被网络安全国际顶级学术会议USENIX ...</A></LI>
+
+<LI><A href="info/1027/2514.htm" target="_blank" title="计算机科学与网络工程学院举办线上线下校友座谈会"><SPAN>2020/12/01</SPAN>计算机科学与网络工程学院举办线上线下校友座谈会</A></LI>
+
+<LI><A href="info/1027/2503.htm" target="_blank" title="新工科·新枢纽·新校区·新舞台"><SPAN>2020/11/11</SPAN>新工科·新枢纽·新校区·新舞台</A></LI>
+
+<LI><A href="info/1027/2434.htm" target="_blank" title="屈哨兵书记一行到我院开展专项工作调研"><SPAN>2020/10/29</SPAN>屈哨兵书记一行到我院开展专项工作调研</A></LI>
+
+<LI><A href="info/1027/2424.htm" target="_blank" title="广州大学在第六届中国大学生程序设计竞赛摘得金牌"><SPAN>2020/10/26</SPAN>广州大学在第六届中国大学生程序设计竞赛摘得金牌</A></LI>
+
+<LI><A href="info/1027/2417.htm" target="_blank" title="刘强书记为2020级本科新生上思政第一课"><SPAN>2020/10/10</SPAN>刘强书记为2020级本科新生上思政第一课</A></LI>
+
+<LI><A href="info/1027/2401.htm" target="_blank" title="为铸就中华文化新辉煌积极贡献力量——校党委书记屈哨兵开讲&quot;思政第一课”"><SPAN>2020/09/30</SPAN>为铸就中华文化新辉煌积极贡献力量——校党委书记屈哨兵...</A></LI>
+
+<script>_showDynClickBatch(['dynclicks_u6_2525','dynclicks_u6_2524','dynclicks_u6_2516','dynclicks_u6_2514','dynclicks_u6_2503','dynclicks_u6_2434','dynclicks_u6_2424','dynclicks_u6_2417','dynclicks_u6_2401'],[2525,2524,2516,2514,2503,2434,2424,2417,2401],"wbnews", 1538520031)</script>
+<!--#endeditable--></UL></DIV></DIV>
+<DIV class="vsb-space oneRight" columns="1"><!--#begineditable contype="" name="学术活动" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="学术活动" viewid="238419" contentviewid="" stylesysid=""--><H1 class="oneTitle cleafix"><SPAN>学术活动通知</SPAN><A href="xsky1/xshdtz.htm">更多 <FONT>&gt;&gt;</FONT></A></H1>
+<UL class="fiver_list">
+
+<LI><A href="info/1102/2028.htm" target="_blank" title="学术报告(Dr. Oana GEMAN,2019.11.15,周五)">学术报告(Dr. Oana GEMAN,2019.11.1...</A></LI>
+
+<LI><A href="info/1102/2027.htm" target="_blank" title="学术报告(Dr. Aniello Castiglione,2019.11.15，周五)">学术报告(Dr. Aniello Castiglione,...</A></LI>
+
+<LI><A href="info/1102/2026.htm" target="_blank" title="学术报告( Dr. Md Zakirul Alam Bhuiyan,2019.11.11,周一)">学术报告( Dr. Md Zakirul Alam Bhu...</A></LI>
+
+<LI><A href="info/1102/2025.htm" target="_blank" title="学术报告(Prof. Zheng Yan,2019.11.11,周一)">学术报告(Prof. Zheng Yan,2019.11....</A></LI>
+
+<LI><A href="info/1102/1402.htm" target="_blank" title="学术报告（Prof. Hai Jiang，2019.6.4，周二)">学术报告（Prof. Hai Jiang，2019.6...</A></LI>
+
+<LI><A href="info/1102/1403.htm" target="_blank" title="学术报告（美国纽约高盛集团Zhiqian Xu，2019.6.4，周二)">学术报告（美国纽约高盛集团Zhiqian...</A></LI>
+
+<LI><A href="info/1102/1401.htm" target="_blank" title="学术报告（Prof. Kouichi Sakurai，2019.5.27，周一)">学术报告（Prof. Kouichi Sakurai，...</A></LI>
+
+<LI><A href="info/1102/1400.htm" target="_blank" title="学术报告（Prof. Wanlei Zhou，2019.5.15，周三)">学术报告（Prof. Wanlei Zhou，2019...</A></LI>
+
+<LI><A href="info/1102/1399.htm" target="_blank" title="学术报告（Prof.Witold Pedrycz，2019.5.14，周二)">学术报告（Prof.Witold Pedrycz，20...</A></LI>
+
+</UL><script>_showDynClickBatch(['dynclicks_u7_2028','dynclicks_u7_2027','dynclicks_u7_2026','dynclicks_u7_2025','dynclicks_u7_1402','dynclicks_u7_1403','dynclicks_u7_1401','dynclicks_u7_1400','dynclicks_u7_1399'],[2028,2027,2026,2025,1402,1403,1401,1400,1399],"wbnews", 1538520031)</script>
+<!--#endeditable--></DIV></DIV>
+<DIV class="vsb-container main" containerid="2" columns="4" style="margin-bottom: 15px"><IMG src="temp/l7a.png" style="height: 120px; width: 100%"> </DIV>
+<DIV class="vsb-container main" containerid="2" columns="4">
+<DIV class="vsb-space fiveLeft" columns="3">
+<DIV class="titles"><A>
+<DIV id="firstTitle" class="titleTab active" onclick="selectTitle(event)">学院通知</DIV></A><A>
+<DIV id="secondTitle" class="titleTab" onclick="selectTitle(event)">学工动态</DIV></A><A>
+<DIV id="thirdTitle" class="titleTab" onclick="selectTitle(event)">招生考试信息</DIV></A></DIV>
+<DIV id="first"><!--#begineditable contype="" name="学院通知" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="右侧3张带摘要_标题列表" viewid="135739" contentviewid="" stylesysid=""--><UL class="fiver_list titlesCon">
+
+<LI><A href="info/1028/2405.htm" target="_blank" title="广州大学计算机科学与网络工程学院 关于2020年研究生国家奖学金、学业奖学金评审结果的公示">广州大学计算机科学与网络工程学院 关于2020年研究生国家奖学金、学业奖学金评审结果的公示<SPAN class="titleDate">2020/10/10</SPAN></A></LI>
+
+<LI><A href="info/1028/2392.htm" target="_blank" title="广州大学计算机科学与网络工程学院2020年研究生学业奖学金评定实施细则">广州大学计算机科学与网络工程学院2020年研究生学业奖学金评定实施细则<SPAN class="titleDate">2020/09/28</SPAN></A></LI>
+
+<LI><A href="info/1028/2391.htm" target="_blank" title="计算机科学与网络工程学院推荐2021年免试攻读硕士研究生的公示">计算机科学与网络工程学院推荐2021年免试攻读硕士研究生的公示<SPAN class="titleDate">2020/09/25</SPAN></A></LI>
+
+<LI><A href="info/1028/2387.htm" target="_blank" title="计算机科学与网络工程学院2020年推荐优秀应届本科毕业生免试攻读研究生工作方案">计算机科学与网络工程学院2020年推荐优秀应届本科毕业生免试攻读研究生工作方案<SPAN class="titleDate">2020/09/18</SPAN></A></LI>
+
+<LI><A href="info/1028/2304.htm" target="_blank" title="广州大学计算机科学与网络工程学院2019-2020学年第2学期转专业学生录用名单公示">广州大学计算机科学与网络工程学院2019-2020学年第2学期转专业学生录用名单公示<SPAN class="titleDate">2020/06/03</SPAN></A></LI>
+
+<LI><A href="info/1028/2135.htm" target="_blank" title="广州大学计算机学院广东省优秀学生（研究生阶段）拟推荐名单公示">广州大学计算机学院广东省优秀学生（研究生阶段）拟推荐名单公示<SPAN class="titleDate">2020/04/13</SPAN></A></LI>
+
+<LI><A href="info/1028/2018.htm" target="_blank" title="关于计算机科学与网络工程学院2020年研究生导师招生资格审核通过名单的公示">关于计算机科学与网络工程学院2020年研究生导师招生资格审核通过名单的公示<SPAN class="titleDate">2019/11/01</SPAN></A></LI>
+
+<LI><A href="info/1028/2006.htm" target="_blank" title="关于2019年广州大学计算机科学与网络工程学院研究生国家奖学业奖学金评审的公示">关于2019年广州大学计算机科学与网络工程学院研究生国家奖学业奖学金评审的公示<SPAN class="titleDate">2019/10/13</SPAN></A></LI>
+
+<LI><A href="info/1028/1984.htm" target="_blank" title="广州大学计算机科学与网络工程学院研究生学业奖学金评定实施细则">广州大学计算机科学与网络工程学院研究生学业奖学金评定实施细则<SPAN class="titleDate">2019/09/25</SPAN></A></LI>
+
+</UL><script>_showDynClickBatch(['dynclicks_u8_2405','dynclicks_u8_2392','dynclicks_u8_2391','dynclicks_u8_2387','dynclicks_u8_2304','dynclicks_u8_2135','dynclicks_u8_2018','dynclicks_u8_2006','dynclicks_u8_1984'],[2405,2392,2391,2387,2304,2135,2018,2006,1984],"wbnews", 1538520031)</script>
+<!--#endeditable--></DIV>
+<DIV id="second" style="display: none"><!--#begineditable contype="" name="学生工作" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="学生工作" viewid="238420" contentviewid="" stylesysid=""--><UL class="fiver_list titlesCon">
+
+<LI><A href="info/1112/2374.htm" target="_blank" title="大二就发SCI是一种什么体验？这对搭档有话说">大二就发SCI是一种什么体验？这对搭档有话说<SPAN class="titleDate">2020/08/21</SPAN></A></LI>
+
+<LI><A href="info/1112/2354.htm" target="_blank" title="计算机学院开展暑期学生宿舍安全检查">计算机学院开展暑期学生宿舍安全检查<SPAN class="titleDate">2020/07/15</SPAN></A></LI>
+
+<LI><A href="info/1112/2343.htm" target="_blank" title="喜报：我院2020届本科毕业生考研取得佳绩">喜报：我院2020届本科毕业生考研取得佳绩<SPAN class="titleDate">2020/07/03</SPAN></A></LI>
+
+<LI><A href="info/1112/2155.htm" target="_blank" title="计算机科学与网络工程学院近三年各专业就业率统计表">计算机科学与网络工程学院近三年各专业就业率统计表<SPAN class="titleDate">2020/04/26</SPAN></A></LI>
+
+<LI><A href="info/1112/2289.htm" target="_blank" title="【勇担使命  共克时艰】学院领导深入宿舍看望慰问留校学生">【勇担使命  共克时艰】学院领导深入宿舍看望慰问留校学生<SPAN class="titleDate">2020/04/17</SPAN></A></LI>
+
+<LI><A href="info/1112/2158.htm" target="_blank" title="【勇担使命  共克时艰】党的政策合民意 万众一心战疫情">【勇担使命  共克时艰】党的政策合民意 万众一心战疫情<SPAN class="titleDate">2020/03/29</SPAN></A></LI>
+
+<LI><A href="info/1112/2291.htm" target="_blank" title="喜报！我院“创青春”校赛终审决赛再创佳绩">喜报！我院“创青春”校赛终审决赛再创佳绩<SPAN class="titleDate">2020/03/27</SPAN></A></LI>
+
+<LI><A href="info/1112/2286.htm" target="_blank" title="【勇担使命  共克时艰】计算机学院开展“线上教、居家学”在线主题班会">【勇担使命  共克时艰】计算机学院开展“线上教、居家学”在线主题班会<SPAN class="titleDate">2020/03/09</SPAN></A></LI>
+
+<LI><A href="info/1112/1805.htm" target="_blank" title="喜讯|我院荣获广州大学2018年度征兵工作先进单位">喜讯|我院荣获广州大学2018年度征兵工作先进单位<SPAN class="titleDate">2019/05/29</SPAN></A></LI>
+
+</UL><script>_showDynClickBatch(['dynclicks_u9_2374','dynclicks_u9_2354','dynclicks_u9_2343','dynclicks_u9_2155','dynclicks_u9_2289','dynclicks_u9_2158','dynclicks_u9_2291','dynclicks_u9_2286','dynclicks_u9_1805'],[2374,2354,2343,2155,2289,2158,2291,2286,1805],"wbnews", 1538520031)</script>
+<!--#endeditable--></DIV>
+<DIV id="third" style="display: none"><!--#begineditable contype="" name="招生考试信息" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="招生考试信息" viewid="238421" contentviewid="" stylesysid=""--><UL class="fiver_list titlesCon">
+
+<LI><A href="info/1093/2309.htm" target="_blank" title="广州大学计算机科学与网络工程学院2020年硕士研究生第2批和第3批复试结果公布">广州大学计算机科学与网络工程学院2020年硕士研究生第2批和第3批复试结果公布<SPAN class="titleDate">2020/07/06</SPAN></A></LI>
+
+<LI><A href="info/1093/2339.htm" target="_blank" title="广州大学计算机科学与网络工程学院2020年博士研究生拟录取考生名单变更公示">广州大学计算机科学与网络工程学院2020年博士研究生拟录取考生名单变更公示<SPAN class="titleDate">2020/07/03</SPAN></A></LI>
+
+<LI><A href="info/1093/2335.htm" target="_blank" title="广州大学计算机科学与网络工程学院2020年博士研究生拟录取考生名单公示">广州大学计算机科学与网络工程学院2020年博士研究生拟录取考生名单公示<SPAN class="titleDate">2020/06/24</SPAN></A></LI>
+
+<LI><A href="info/1093/2334.htm" target="_blank" title="计算机科学与网络工程学院2020年硕士研究生拟录取考生名单变更公示">计算机科学与网络工程学院2020年硕士研究生拟录取考生名单变更公示<SPAN class="titleDate">2020/06/24</SPAN></A></LI>
+
+<LI><A href="info/1093/2316.htm" target="_blank" title="广州大学计算机科学与网络工程学院2020年博士研究生初选结果考生名单">广州大学计算机科学与网络工程学院2020年博士研究生初选结果考生名单<SPAN class="titleDate">2020/06/17</SPAN></A></LI>
+
+<LI><A href="info/1093/2314.htm" target="_blank" title="计算机科学与网络工程学院2020年招收博士研究生初选、复选工作的安排">计算机科学与网络工程学院2020年招收博士研究生初选、复选工作的安排<SPAN class="titleDate">2020/06/15</SPAN></A></LI>
+
+<LI><A href="info/1093/2293.htm" target="_blank" title="广州大学计算机科学与网络工程学院2020年硕士研究生第一批复试结果公布">广州大学计算机科学与网络工程学院2020年硕士研究生第一批复试结果公布<SPAN class="titleDate">2020/05/22</SPAN></A></LI>
+
+<LI><A href="info/1093/2273.htm" target="_blank" title="2020年广州大学计算机科学与网络工程学院招收硕士研究生复试工作安排">2020年广州大学计算机科学与网络工程学院招收硕士研究生复试工作安排<SPAN class="titleDate">2020/05/11</SPAN></A></LI>
+
+<LI><A href="info/1093/1744.htm" target="_blank" title="计算机学院2019年博士研究生拟录取考生名单变更公示">计算机学院2019年博士研究生拟录取考生名单变更公示<SPAN class="titleDate">2019/05/27</SPAN></A></LI>
+
+</UL><script>_showDynClickBatch(['dynclicks_u10_2309','dynclicks_u10_2339','dynclicks_u10_2335','dynclicks_u10_2334','dynclicks_u10_2316','dynclicks_u10_2314','dynclicks_u10_2293','dynclicks_u10_2273','dynclicks_u10_1744'],[2309,2339,2335,2334,2316,2314,2293,2273,1744],"wbnews", 1538520031)</script>
+<!--#endeditable--></DIV></DIV>
+<DIV class="vsb-space fiveRight" columns="1">
+
+<div class="titles"><a>
+<div class="titleTab" style="color: #00a44e;">学科平台</div></a></div>
+<a href="#">
+<IMG src="temp/30.jpg" style="height: 85px; width: 100%; margin: 5px 0px"> 
+</a>
+<a href="http://wyy.gzhu.edu.cn/">
+<IMG src="temp/29.jpg" style="height: 85px; width: 100%; margin: 5px 0px"> 
+</a>
+<a href="http://icst.gzhu.edu.cn/">
+<IMG src="temp/28.jpg" style="height: 85px; width: 100%; margin: 5px 0px"> 
+</a>
+
+</DIV>
+</DIV>
+
+<DIV class="vsb-container main" containerid="2" columns="4">
+<H1 class="oneTitle cleafix"><SPAN>学术新闻</SPAN><A href="xwzx1/xytz.htm">更多 <FONT size="+0">&gt;&gt;</FONT></A></H1>
+<DIV class="sch_con sch_conb">
+<UL><!--#begineditable contype="" name="尾部图片" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="尾部图片" viewid="238389" contentviewid="" stylesysid=""--> 
+
+	<LI><A href="info/1232/1671.htm" target="_blank" title="加拿大阿尔伯塔大学Witold Pedrycz教授应邀来我院作学术交流"><IMG src="/__local/C/81/0B/9ED58BE7C290E1B1E05FC13EA0F_84D40EF0_5454.jpg"> 
+<P><a href="info/1232/1671.htm" target="_blank" title="加拿大阿尔伯塔大学Witold Pedrycz教授应邀来我院作学术交流">加拿大阿尔伯塔大学Witold Pedrycz教授应邀来我院...</a></P></A></LI>
+
+ 
+
+	<LI><A href="info/1232/1670.htm" target="_blank" title="Monash  University于江山教授来我院做学术报告"><IMG src="/__local/4/17/CA/49FB714D117610E7C681A7F0459_F94CC1AB_4DE2.jpg"> 
+<P><a href="info/1232/1670.htm" target="_blank" title="Monash  University于江山教授来我院做学术报告">Monash  University于江山教授来我院做学术报告</a></P></A></LI>
+
+ 
+
+	<LI><A href="info/1232/1669.htm" target="_blank" title="我院举办计算机图形学前沿学术报告会"><IMG src="/__local/2/F5/DB/616BA3122B9F7605B5D11E5D6BB_E6123B38_4C140.png"> 
+<P><a href="info/1232/1669.htm" target="_blank" title="我院举办计算机图形学前沿学术报告会">我院举办计算机图形学前沿学术报告会</a></P></A></LI>
+
+ 
+
+	<LI><A href="info/1232/1668.htm" target="_blank" title="陈建二教授为我校名师大讲堂作报告"><IMG src="/__local/2/C5/B3/487437B9219CC53BF13288D95F9_FE79D059_4387.jpg"> 
+<P><a href="info/1232/1668.htm" target="_blank" title="陈建二教授为我校名师大讲堂作报告">陈建二教授为我校名师大讲堂作报告</a></P></A></LI>
+
+ 
+
+	<LI><A href="info/1232/1667.htm" target="_blank" title="2018年智慧世界大会隆重举行"><IMG src="/__local/7/AD/28/2F7E95B92B0BBCA36A81E3ECA12_46824E33_89D9.jpg"> 
+<P><a href="info/1232/1667.htm" target="_blank" title="2018年智慧世界大会隆重举行">2018年智慧世界大会隆重举行</a></P></A></LI>
+
+ 
+
+	<LI><A href="info/1232/1666.htm" target="_blank" title="图灵奖首位华人学者姚期智院士来校作报告"><IMG src="/__local/B/00/67/1AEB8CCAD3D2C1AF832D592CAE6_16E11AA2_5440.jpg"> 
+<P><a href="info/1232/1666.htm" target="_blank" title="图灵奖首位华人学者姚期智院士来校作报告">图灵奖首位华人学者姚期智院士来校作报告</a></P></A></LI>
+
+<script>_showDynClickBatch(['dynclicks_u11_1671','dynclicks_u11_1670','dynclicks_u11_1669','dynclicks_u11_1668','dynclicks_u11_1667','dynclicks_u11_1666'],[1671,1670,1669,1668,1667,1666],"wbnews", 1538520031)</script>
+<!--#endeditable--></UL></DIV></DIV></DIV>
+<DIV class="vsb-container main" containerid="2" columns="4">
+<DIV class="innerLink"></DIV>
+<DIV class="outLint"><!--#begineditable contype="" name="校内链接" action="" layout="" clone="0" namechanged="0" order="13" ispublic="0" tagname="校外链接" viewid="238423" contentviewid="" stylesysid=""--><div class="leftTitle">
+校内链接
+</div>
+<ul class="rightCon">
+    <li>
+        <a href="my.gzhu.edu.cn">数字广大</a>
+            |
+    </li>
+    <li>
+        <a href="news.gzhu.edu.cn">新闻中心</a>
+            |
+    </li>
+    <li>
+        <a href="lib.gzhu.edu.cn">图书馆</a>
+            |
+    </li>
+    <li>
+        <a href="mail.gzhu.edu.cn">电子邮箱</a>
+            |
+    </li>
+    <li>
+        <a href="gdcggl.gzhu.edu.cn/">招标信息</a>
+            |
+    </li>
+    <li>
+        <a href="http://yjsy.gzhu.edu.cn/">研究生处</a>
+            |
+    </li>
+    <li>
+        <a href="http://jwc.gzhu.edu.cn/">教务处</a>
+            |
+    </li>
+    <li>
+        <a href="http://kyc.gzhu.edu.cn/">科研处</a>
+            |
+    </li>
+    <li>
+        <a href="http://xsc.gzhu.edu.cn/">学生工作处</a>
+            |
+    </li>
+    <li>
+        <a href="http://zsjy.gzhu.edu.cn/">招生就业处</a>
+            |
+    </li>
+    <li>
+        <a href="http://">毕业论文管理系统</a>
+            |
+    </li>
+    <li>
+        <a href="http">实验教学综合信息应用平台</a>
+            |
+    </li>
+    <li>
+        <a href="http">校外实践基地</a>
+        
+    </li>
+</ul>
+<div class="clear"></div><!--#endeditable--></DIV></DIV><!--bottom-->
+<DIV class="bottom"></DIV>
+<DIV class="footer"><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="14" ispublic="0" tagname="版权" viewid="135729" contentviewid="" stylesysid=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="text-align:center;">广州大学计算机科学与网络工程学院&nbsp;&nbsp;地址：行政西楼前座424室<br />学院邮箱：jsj@gzhu.edu.cn&nbsp; &nbsp;电话：020-39366375&nbsp;&nbsp;邮编：510006<br /></p><!--#endeditable--></DIV>
+
+</BODY></HTML>

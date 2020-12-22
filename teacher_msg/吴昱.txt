@@ -1,0 +1,1 @@
+吴昱.jpg, title='副教授', researchInstitute='网络工程系', specialism='智能计算、进化算法、深度学习', course='《编译原理》、《数据结构》、《web应用技术》、《操作系统》、《高级网站开发》、《计算机导论》、《智能计算》', email='wuyu@gzhu.edu.cn', office='null', phoneNum='null', page=null}

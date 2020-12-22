@@ -1,0 +1,1 @@
+王艳.jpg, title='讲师', researchInstitute='网络工程系', specialism='嵌入式高性能计算、数据存储与处理', course='操作系统、计算机组成原理、算法设计与分析', email='yanw@gzhu.edu.cn', office='null', phoneNum='null', page=null}

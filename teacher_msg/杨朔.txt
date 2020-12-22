@@ -1,0 +1,1 @@
+杨朔.jpg, title='讲师', researchInstitute='计算机科学系', specialism='知识图谱、情感分析', course='程序设计基础、面向对象程序设计、数据库原理', email='yangshuo@gzhu.edu.cn', office='null', phoneNum='null', page=null}

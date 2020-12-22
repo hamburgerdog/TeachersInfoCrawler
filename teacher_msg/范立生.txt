@@ -1,0 +1,1 @@
+范立生.jpg, title='教授', researchInstitute='计算机科学系', specialism='人工智能、无线网络', course='人工智能导论、数据结构、大数据技术', email='lsfan@gzhu.edu.cn', office='null', phoneNum='null', page=null}

@@ -1,0 +1,1 @@
+邹宇.jpg, title='讲师', researchInstitute='计算机科学系', specialism='自动推理', course='动态几何、人工智能导论等', email='zouyu020@126.com', office='null', phoneNum='020-39366413', page=null}

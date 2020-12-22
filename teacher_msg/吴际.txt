@@ -1,0 +1,1 @@
+吴际.jpg, title='副教授', researchInstitute='网络工程系', specialism='三维芯片设计', course='软件工程、游戏开发', email='wuji@gzhu.edu.cn', office='null', phoneNum='null', page=null}

@@ -1,0 +1,1 @@
+吴杰.jpg, title='副教授', researchInstitute='计算机公共基础课教学部', specialism='计算机教育', course='计算机与信息技术基础', email='wujiegzdx@126.com', office='null', phoneNum='39366375', page=null}

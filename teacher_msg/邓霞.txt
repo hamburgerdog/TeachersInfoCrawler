@@ -1,0 +1,1 @@
+邓霞.jpg, title='讲师', researchInstitute=' 网络工程系', specialism='移动社会网络、移动机会网络、分布式网络协议设计与性能分析', course='计算机网络、组网技术、无线网络与移动计算', email='gzhu_dx@gzhu.edu.cn', office='null', phoneNum='020-39366375', page=http://www.scholat.com/dengxia}
